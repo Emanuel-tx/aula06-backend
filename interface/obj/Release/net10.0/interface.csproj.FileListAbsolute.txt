@@ -1,0 +1,4 @@
+/home/emanuel/Documentos/bagui de backend/aula06 backend/interface/obj/Release/net10.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanuel/Documentos/bagui de backend/aula06 backend/interface/obj/Release/net10.0/interface.AssemblyInfoInputs.cache
+/home/emanuel/Documentos/bagui de backend/aula06 backend/interface/obj/Release/net10.0/interface.AssemblyInfo.cs
+/home/emanuel/Documentos/bagui de backend/aula06 backend/interface/obj/Release/net10.0/interface.csproj.CoreCompileInputs.cache
